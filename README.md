@@ -8,8 +8,9 @@ Extreme nonsignaling points used for calculations in *"Communication-constrained
 
 The points are written in terms of correlators, such that
 
-$\langle a_x \rangle = \; p(1 \mid x) - p(0 \mid x)$ \
-$\langle b_y \rangle = \; p(1 \mid y) - p(0 \mid y)$ \
-$\langle a_x b_y \rangle = \; p(a = b \mid x,y) - p(a \neq b \mid x,y)$
+$\langle a_x \rangle =  p(1 \mid x) - p(0 \mid x)$ \
+$\langle b_y \rangle =  p(1 \mid y) - p(0 \mid y)$ \
+$\langle a_x b_y \rangle =  p(a = b \mid x,y) - p(a \neq b \mid x,y)$
+
 
 
