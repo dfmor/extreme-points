@@ -1,0 +1,22 @@
+
+-------- CALCULATE BOUNDS 1 --------
+
+Bound: 0.8165130615234375
+
+Used inequalities: 207
+Best inequalities: [2, 162]
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Optimal vertex: 15
+
+-------- CALCULATE BOUNDS 2 --------
+
+Bound: 0.8165130615234375
+
+Used inequalities: 245
+Best inequalities: [5, 192]
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Optimal vertex: 15

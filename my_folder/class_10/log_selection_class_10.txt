@@ -1,0 +1,6003 @@
+
+-------- ORDERING 1 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0X1+X0B0-X0B1+AAn+X0X1A-X0X1B0-X0X1B1-X0X1AB1
+
+Total unique inequalities: 1
+Time taken: 6.454505700035952
+
+-------- ORDERING 2 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 2
+Time taken: 5.843973399954848
+
+-------- ORDERING 3 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 3
+Time taken: 7.014000999974087
+
+-------- ORDERING 4 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 4
+Time taken: 7.777298199944198
+
+-------- ORDERING 5 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-0.5A-0.5An+X0X1+0.5X0B0+0.5AAn+0.5AnB1-0.5X0X1B0-0.5X0X1B1-0.5X0AnB1
+
+Total unique inequalities: 5
+Time taken: 8.464806300005876
+
+-------- ORDERING 6 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 6
+Time taken: 6.752549900091253
+
+-------- ORDERING 7 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+0.6666666666666666X0+0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+0.6666666666666666B1+0.3333333333333333X0B0-X0B1+0.3333333333333333AAn-0.3333333333333333X0X1B0
+
+Total unique inequalities: 7
+Time taken: 7.300952899968252
+
+-------- ORDERING 8 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-0.5A-0.5An+0.5X0X1+0.5X0B0+0.5AAn+AnB1-0.5X0X1B0-X0AnB1
+
+Total unique inequalities: 8
+Time taken: 5.859960999921896
+
+-------- ORDERING 9 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 9
+Time taken: 5.559246700024232
+
+-------- ORDERING 10 --------
+
+Selected ineqaulities: 42
+
+Non-trivial: 1
+0.6666666666666666X0-0.3333333333333333A-0.3333333333333333An+0.3333333333333333X0X1+0.3333333333333333X0B0-0.6666666666666666X0B1+0.3333333333333333AAn+AnB1-0.3333333333333333X0X1B0-X0AnB1
+
+Total unique inequalities: 10
+Time taken: 6.311693600029685
+
+-------- ORDERING 11 --------
+
+Selected ineqaulities: 38
+
+Non-trivial: 1
+0.5X0-0.25A-0.25An+0.5B1+0.25X0X1+0.25X0B0-X0B1+0.25AAn-0.25X0X1B0
+
+Total unique inequalities: 11
+Time taken: 6.09053699998185
+
+-------- ORDERING 12 --------
+
+Selected ineqaulities: 29
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 12
+Time taken: 6.2824146000202745
+
+-------- ORDERING 13 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 12
+Time taken: 5.421602900023572
+
+-------- ORDERING 14 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 12
+Time taken: 5.585707499994896
+
+-------- ORDERING 15 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+0.3333333333333333X0+0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+0.3333333333333333X0B0+0.3333333333333333AAn+AnB1-0.3333333333333333X0X1B0-X0AnB1
+
+Total unique inequalities: 13
+Time taken: 5.928955899900757
+
+-------- ORDERING 16 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 13
+Time taken: 5.813628799980506
+
+-------- ORDERING 17 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+X1B1+AAn-X0X1B0-X0X1B1
+
+Total unique inequalities: 14
+Time taken: 5.873193499981426
+
+-------- ORDERING 18 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 14
+Time taken: 5.761767700081691
+
+-------- ORDERING 19 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1+AAnB1-X0X1AnB0-X0AAnB1
+
+Total unique inequalities: 15
+Time taken: 5.925626100040972
+
+-------- ORDERING 20 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1-0.5X0B1+0.5AAn-0.5X0X1B1+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 16
+Time taken: 5.790432299952954
+
+-------- ORDERING 21 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 17
+Time taken: 5.678293899982236
+
+-------- ORDERING 22 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 17
+Time taken: 5.970949799986556
+
+-------- ORDERING 23 --------
+
+Selected ineqaulities: 34
+
+Non-trivial: 1
+0.25X0-0.25A-0.25An+0.75B1+0.25X0X1+0.25X0B0-X0B1+0.25AAn-0.25X0X1B0
+
+Total unique inequalities: 18
+Time taken: 6.397298200055957
+
+-------- ORDERING 24 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 18
+Time taken: 5.201468799961731
+
+-------- ORDERING 25 --------
+
+Selected ineqaulities: 31
+
+Non-trivial: 1
+0.6666666666666666X0-0.3333333333333333A-0.3333333333333333An+0.3333333333333333B1+0.3333333333333333X0X1+0.3333333333333333X0B0-X0B1+0.3333333333333333AAn+0.3333333333333333X0X1A-0.3333333333333333X0X1B0-0.3333333333333333X0X1AB1
+
+Total unique inequalities: 19
+Time taken: 6.56618740002159
+
+-------- ORDERING 26 --------
+
+Selected ineqaulities: 29
+
+Non-trivial: 1
+-0.3333333333333333A-0.3333333333333333An+0.3333333333333333B1+X0X1+0.3333333333333333X0B0-0.3333333333333333X0B1+0.3333333333333333AAn-0.3333333333333333X0X1B0-0.6666666666666666X0X1B1
+
+Total unique inequalities: 20
+Time taken: 6.0149160999571905
+
+-------- ORDERING 27 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1-X0B1+0.5AAn+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 21
+Time taken: 5.575321299955249
+
+-------- ORDERING 28 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 21
+Time taken: 5.510639699990861
+
+-------- ORDERING 29 --------
+
+Selected ineqaulities: 29
+
+Non-trivial: 1
+-0.5X1-0.5A-0.5An+X0X1+0.5X0B0-0.5X0B1+0.5X1B1+0.5AAn+0.5X0X1A-0.5X0X1B0-0.5X0X1B1-0.5X0X1AB1
+
+Total unique inequalities: 22
+Time taken: 6.148285000002943
+
+-------- ORDERING 30 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 22
+Time taken: 5.553441699943505
+
+-------- ORDERING 31 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 22
+Time taken: 5.810299300006591
+
+-------- ORDERING 32 --------
+
+Selected ineqaulities: 35
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1-X0B1+0.5AAn+0.5X0AnB0+X0X1AAn-0.5X0X1AnB0-X0X1AAnB1
+
+Total unique inequalities: 23
+Time taken: 6.503350500017405
+
+-------- ORDERING 33 --------
+
+Selected ineqaulities: 38
+
+Non-trivial: 1
+-0.25A-0.25An+B1+0.5X0X1+0.25X0B0-X0B1+0.25AAn-0.25X0X1B0-0.25X0X1B1
+
+Total unique inequalities: 24
+Time taken: 6.155721999937668
+
+-------- ORDERING 34 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 25
+Time taken: 5.53132219996769
+
+-------- ORDERING 35 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+X1B1+AAn-X0X1B0-X0X1B1
+
+Total unique inequalities: 25
+Time taken: 6.1633502000477165
+
+-------- ORDERING 36 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0X1A+X0AnB0-X0X1AB1-X0X1AnB0
+
+Total unique inequalities: 26
+Time taken: 5.985612599994056
+
+-------- ORDERING 37 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+0.5X0B0+0.5AAn+AnB1-0.5X0X1B0-X0AnB1
+
+Total unique inequalities: 27
+Time taken: 5.824421499972232
+
+-------- ORDERING 38 --------
+
+Selected ineqaulities: 44
+
+Non-trivial: 1
+0.3333333333333333X0+0.3333333333333333X1-0.33333333333333326A-0.3333333333333333An+B1+0.3333333333333333X0A-X0B1+0.3333333333333333X1B1+0.33333333333333326AAn-0.3333333333333333X0X1B1-0.3333333333333333X0AB1+0.3333333333333333X0AnB0-0.3333333333333333X0X1AnB0
+
+Total unique inequalities: 28
+Time taken: 6.712901200051419
+
+-------- ORDERING 39 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 28
+Time taken: 5.814957700087689
+
+-------- ORDERING 40 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 28
+Time taken: 5.392768200021237
+
+-------- ORDERING 41 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 29
+Time taken: 5.910397399915382
+
+-------- ORDERING 42 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 30
+Time taken: 6.0138725999277085
+
+-------- ORDERING 43 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 30
+Time taken: 5.691439399961382
+
+-------- ORDERING 44 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 30
+Time taken: 5.329090900020674
+
+-------- ORDERING 45 --------
+
+Selected ineqaulities: 34
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+0.5X0X1+0.5X0A+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0-0.5X0AB1
+
+Total unique inequalities: 31
+Time taken: 6.814766800031066
+
+-------- ORDERING 46 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 32
+Time taken: 5.9136523000197485
+
+-------- ORDERING 47 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 32
+Time taken: 5.510231399908662
+
+-------- ORDERING 48 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0X1A+X0AnB0-X0X1AB1-X0X1AnB0
+
+Total unique inequalities: 33
+Time taken: 5.879532900056802
+
+-------- ORDERING 49 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+-0.5A-0.5An+0.5X0X1+0.5AAn+AnB1+0.5X0AnB0-X0AnB1-0.5X0X1AnB0
+
+Total unique inequalities: 34
+Time taken: 5.822937799966894
+
+-------- ORDERING 50 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+X0+X1-0.5A-0.5An+0.5B1-0.5X0B1+0.5AAn+0.5AB1-0.5X0X1B1-0.5X0AB1+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 35
+Time taken: 6.328182999975979
+
+-------- ORDERING 51 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 35
+Time taken: 5.120873200008646
+
+-------- ORDERING 52 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+-0.5A-0.5An+0.5X0X1+0.5X0An+0.5AAn+0.5AnB1+0.5X0X1A+0.5X0AnB0-X0AnB1-0.5X0X1AB1-0.5X0X1AnB0
+
+Total unique inequalities: 36
+Time taken: 6.1052650999045
+
+-------- ORDERING 53 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 36
+Time taken: 5.8947462000651285
+
+-------- ORDERING 54 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1-X0B1+0.5AAn+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 37
+Time taken: 5.476418799953535
+
+-------- ORDERING 55 --------
+
+Selected ineqaulities: 12
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 37
+Time taken: 5.478206499945372
+
+-------- ORDERING 56 --------
+
+Selected ineqaulities: 31
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0X1+X0B0-X0B1+AAn+X0X1A-X0X1B0-X0X1B1-X0X1AB1
+
+Total unique inequalities: 37
+Time taken: 5.795334399910644
+
+-------- ORDERING 57 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 37
+Time taken: 5.739612099947408
+
+-------- ORDERING 58 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 38
+Time taken: 5.74380990001373
+
+-------- ORDERING 59 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 38
+Time taken: 6.190303800045513
+
+-------- ORDERING 60 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+0.5X0+0.5X1-A-0.5An+B1+0.5X0A+0.5X0B0-X0B1+AAn-0.5X0X1B0-0.5X0AAn
+
+Total unique inequalities: 39
+Time taken: 5.8216732000000775
+
+-------- ORDERING 61 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-X0X1B1
+
+Total unique inequalities: 40
+Time taken: 5.756573199992999
+
+-------- ORDERING 62 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+X0-A-An+X0X1-X0B1+AAn+AnB1+X0X1An+X0AnB0-X0AnB1-X0X1AnB0-X0X1AnB1
+
+Total unique inequalities: 41
+Time taken: 6.086505200015381
+
+-------- ORDERING 63 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0-X0X1B1
+
+Total unique inequalities: 42
+Time taken: 5.9373444999800995
+
+-------- ORDERING 64 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0B0-X0B1+0.5AAn+0.5X0X1A-0.5X0X1B0-0.5X0X1AB1
+
+Total unique inequalities: 43
+Time taken: 5.68535729998257
+
+-------- ORDERING 65 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn+X0X1A-X0X1B0-X0X1AB1
+
+Total unique inequalities: 44
+Time taken: 5.894243800081313
+
+-------- ORDERING 66 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 44
+Time taken: 5.386564599932171
+
+-------- ORDERING 67 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 44
+Time taken: 5.221999599947594
+
+-------- ORDERING 68 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn+X0X1A-X0X1B0-X0X1AB1
+
+Total unique inequalities: 44
+Time taken: 5.398900200030766
+
+-------- ORDERING 69 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 44
+Time taken: 5.721093300031498
+
+-------- ORDERING 70 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 44
+Time taken: 5.571774199954234
+
+-------- ORDERING 71 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 44
+Time taken: 5.8042189999250695
+
+-------- ORDERING 72 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 44
+Time taken: 5.333391800057143
+
+-------- ORDERING 73 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 45
+Time taken: 5.772518299985677
+
+-------- ORDERING 74 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-0.5A-0.5An+0.5X0X1+0.5X0B0+0.5AAn+AnB1-0.5X0X1B0-X0AnB1
+
+Total unique inequalities: 45
+Time taken: 5.972030500066467
+
+-------- ORDERING 75 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+X0+X1-A-An+X0A+AAn+AnB1-X0AB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 46
+Time taken: 5.935169299948029
+
+-------- ORDERING 76 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0+X1AnB1-X0X1AnB1
+
+Total unique inequalities: 47
+Time taken: 5.883247900055721
+
+-------- ORDERING 77 --------
+
+Selected ineqaulities: 36
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+0.5X0X1+0.5X0A+0.5X0B0-X0B1+0.5AAn+0.5AnB1-0.5X0X1B0-0.5X0AB1-0.5X0AnB1
+
+Total unique inequalities: 48
+Time taken: 6.98240919993259
+
+-------- ORDERING 78 --------
+
+Selected ineqaulities: 37
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B1+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 49
+Time taken: 6.808105799951591
+
+-------- ORDERING 79 --------
+
+Selected ineqaulities: 35
+
+Non-trivial: 1
+-0.3333333333333333A-0.3333333333333333An+B1+0.6666666666666666X0X1+0.3333333333333333X0B0-X0B1+0.3333333333333333AAn-0.3333333333333333X0X1B0-0.3333333333333333X0X1B1
+
+Total unique inequalities: 50
+Time taken: 5.176964799989946
+
+-------- ORDERING 80 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 50
+Time taken: 4.490249500027858
+
+-------- ORDERING 81 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 50
+Time taken: 4.986830300069414
+
+-------- ORDERING 82 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5B1-X0B1+0.5AAn+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 51
+Time taken: 4.926996199996211
+
+-------- ORDERING 83 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 51
+Time taken: 4.959360499982722
+
+-------- ORDERING 84 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 52
+Time taken: 4.735277400002815
+
+-------- ORDERING 85 --------
+
+Selected ineqaulities: 41
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1+0.5X1AnB1-0.5X0X1AnB1
+
+Total unique inequalities: 53
+Time taken: 7.261530599906109
+
+-------- ORDERING 86 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 53
+Time taken: 4.976068299962208
+
+-------- ORDERING 87 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 53
+Time taken: 5.5386889999499545
+
+-------- ORDERING 88 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 53
+Time taken: 5.085508699994534
+
+-------- ORDERING 89 --------
+
+Selected ineqaulities: 33
+
+Non-trivial: 1
+-0.5X1-0.5A-0.5An+X0X1+0.5X0B0-0.5X0B1+X1B1+0.5AAn-0.5X0X1B0-X0X1B1
+
+Total unique inequalities: 54
+Time taken: 5.512742500053719
+
+-------- ORDERING 90 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0X1An+X0AnB0-X0X1AnB0-X0X1AnB1
+
+Total unique inequalities: 55
+Time taken: 5.361469600000419
+
+-------- ORDERING 91 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 55
+Time taken: 5.138890600064769
+
+-------- ORDERING 92 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 55
+Time taken: 5.028797000064515
+
+-------- ORDERING 93 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 55
+Time taken: 5.074804999982007
+
+-------- ORDERING 94 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 55
+Time taken: 5.1478555999929085
+
+-------- ORDERING 95 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 55
+Time taken: 5.401569199981168
+
+-------- ORDERING 96 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 55
+Time taken: 5.193283400032669
+
+-------- ORDERING 97 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 55
+Time taken: 5.144902299973182
+
+-------- ORDERING 98 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 55
+Time taken: 4.710319500067271
+
+-------- ORDERING 99 --------
+
+Selected ineqaulities: 39
+
+Non-trivial: 1
+-0.3333333333333333A-0.3333333333333333An+B1+0.6666666666666666X0X1+0.3333333333333333X0B0-X0B1+0.3333333333333333AAn-0.3333333333333333X0X1B0-0.3333333333333333X0X1B1
+
+Total unique inequalities: 55
+Time taken: 6.003959099994972
+
+-------- ORDERING 100 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 55
+Time taken: 5.360432900022715
+
+-------- ORDERING 101 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0X1An+X0AnB0-X0AnB1-X0X1AnB0-X0X1AnB1
+
+Total unique inequalities: 56
+Time taken: 5.099270100006834
+
+-------- ORDERING 102 --------
+
+Selected ineqaulities: 36
+
+Non-trivial: 1
+0.6666666666666666X0+0.6666666666666666X1-0.3333333333333333A-0.3333333333333333An+0.3333333333333333B1+0.3333333333333333X0X1+0.3333333333333333X0B0-0.3333333333333333X0B1+0.3333333333333333X1B1+0.3333333333333333AAn-0.3333333333333333X0X1B0-X0X1B1
+
+Total unique inequalities: 57
+Time taken: 5.582311399979517
+
+-------- ORDERING 103 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn+0.5X0X1A-0.5X0X1B0-0.5X0X1B1-0.5X0X1AB1
+
+Total unique inequalities: 58
+Time taken: 5.23737559991423
+
+-------- ORDERING 104 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 58
+Time taken: 4.743887199903838
+
+-------- ORDERING 105 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 58
+Time taken: 5.145258000004105
+
+-------- ORDERING 106 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+X1B1+AAn-X0X1B0-X0X1B1
+
+Total unique inequalities: 58
+Time taken: 5.526367699960247
+
+-------- ORDERING 107 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 58
+Time taken: 5.053196700057015
+
+-------- ORDERING 108 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 58
+Time taken: 5.029813900007866
+
+-------- ORDERING 109 --------
+
+Selected ineqaulities: 43
+
+Non-trivial: 1
+-0.2A-0.2An+B1+0.2X0X1+0.8X0A+0.2X0B0-X0B1+0.2AAn-0.2X0X1B0-0.8X0AB1
+
+Total unique inequalities: 59
+Time taken: 9.081620700075291
+
+-------- ORDERING 110 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-0.5A-0.5An+X0X1+0.5AAn+0.5AnB1-0.5X0X1B1+0.5X0AnB0-0.5X0AnB1-0.5X0X1AnB0
+
+Total unique inequalities: 60
+Time taken: 7.875387000036426
+
+-------- ORDERING 111 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+0.5X0B0+0.5AAn+AnB1-0.5X0X1B0-X0AnB1
+
+Total unique inequalities: 60
+Time taken: 6.029226600076072
+
+-------- ORDERING 112 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 60
+Time taken: 4.9208394000306726
+
+-------- ORDERING 113 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 60
+Time taken: 4.872717999969609
+
+-------- ORDERING 114 --------
+
+Selected ineqaulities: 33
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0A+0.5X0B0-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-X0X1B1-0.5X0AB1
+
+Total unique inequalities: 61
+Time taken: 5.168097899993882
+
+-------- ORDERING 115 --------
+
+Selected ineqaulities: 34
+
+Non-trivial: 1
+-0.3333333333333333A-0.3333333333333333An+0.3333333333333333B1+0.3333333333333333X0X1+0.3333333333333333X0B0-0.3333333333333333X0B1+0.3333333333333333X1B1+0.3333333333333333AAn+AnB1-0.3333333333333333X0X1B0-0.3333333333333333X0X1B1-X0AnB1
+
+Total unique inequalities: 62
+Time taken: 5.432412600028329
+
+-------- ORDERING 116 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 62
+Time taken: 5.422520700027235
+
+-------- ORDERING 117 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 62
+Time taken: 4.966051799943671
+
+-------- ORDERING 118 --------
+
+Selected ineqaulities: 40
+
+Non-trivial: 1
+-0.3333333333333333A-0.3333333333333333An+0.6666666666666666X0X1+0.3333333333333333X0B0+0.3333333333333333AAn+AnB1+0.6666666666666666X0X1A-0.3333333333333333X0X1B0-0.3333333333333333X0X1B1-X0AnB1-0.6666666666666666X0X1AB1
+
+Total unique inequalities: 63
+Time taken: 5.491294699953869
+
+-------- ORDERING 119 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+0.5X0-A-0.5An+0.5B1+0.5X0X1+0.5X0B0-X0B1+0.5X1A+AAn-0.5X0X1B0-0.5X1AAn
+
+Total unique inequalities: 64
+Time taken: 5.497179200057872
+
+-------- ORDERING 120 --------
+
+Selected ineqaulities: 37
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+X1B1+AAn+X0X1A-X0X1B1+X0AnB0-X0X1AB1-X0X1AnB0
+
+Total unique inequalities: 65
+Time taken: 5.817479699966498
+
+-------- ORDERING 121 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0X1A+X0AnB0-X0AnB1-X0X1AB1-X0X1AnB0
+
+Total unique inequalities: 66
+Time taken: 5.068950799992308
+
+-------- ORDERING 122 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 66
+Time taken: 4.953854200080968
+
+-------- ORDERING 123 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 66
+Time taken: 4.865797900012694
+
+-------- ORDERING 124 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 66
+Time taken: 5.077611899934709
+
+-------- ORDERING 125 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 66
+Time taken: 4.75747670000419
+
+-------- ORDERING 126 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+X0+X1-0.5A-0.5An+0.5B1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 67
+Time taken: 5.104662399971858
+
+-------- ORDERING 127 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 67
+Time taken: 4.642435000045225
+
+-------- ORDERING 128 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 67
+Time taken: 4.7160387999610975
+
+-------- ORDERING 129 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-X0B1+0.5AAn+0.5X0X1A-0.5X0X1B0-0.5X0X1B1-0.5X0X1AB1
+
+Total unique inequalities: 68
+Time taken: 5.81502239999827
+
+-------- ORDERING 130 --------
+
+Selected ineqaulities: 31
+
+Non-trivial: 1
+0.6666666666666666X0+0.6666666666666666X1-A-0.3333333333333333An+0.6666666666666666B1+0.3333333333333333X0B0-0.6666666666666666X0B1+0.6666666666666666X1A-0.3333333333333333X1B1+AAn-0.3333333333333333X0X1B0-0.6666666666666666X1AAn
+
+Total unique inequalities: 69
+Time taken: 5.1533509999280795
+
+-------- ORDERING 131 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 69
+Time taken: 4.852795199956745
+
+-------- ORDERING 132 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 69
+Time taken: 4.863223300082609
+
+-------- ORDERING 133 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+-0.5A-0.5An+0.5X0X1+0.5AAn+AnB1+0.5X0AnB0-X0AnB1-0.5X0X1AnB0
+
+Total unique inequalities: 69
+Time taken: 5.221815300057642
+
+-------- ORDERING 134 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 69
+Time taken: 4.821206000051461
+
+-------- ORDERING 135 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 69
+Time taken: 4.548044600058347
+
+-------- ORDERING 136 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0An+X0B0-X0B1+AAn-X0X1B0-X0AnB1
+
+Total unique inequalities: 70
+Time taken: 5.023025100002997
+
+-------- ORDERING 137 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 70
+Time taken: 4.8485795999877155
+
+-------- ORDERING 138 --------
+
+Selected ineqaulities: 43
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-X0B1+0.5AAn+0.5X0X1A-0.5X0X1B0-0.5X0X1B1-0.5X0X1AB1
+
+Total unique inequalities: 70
+Time taken: 6.987391100032255
+
+-------- ORDERING 139 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0X1A+X0AnB0-X0AnB1-X0X1AB1-X0X1AnB0
+
+Total unique inequalities: 70
+Time taken: 17.544188699917868
+
+-------- ORDERING 140 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 70
+Time taken: 10.667325699934736
+
+-------- ORDERING 141 --------
+
+Selected ineqaulities: 38
+
+Non-trivial: 1
+-0.5A-0.5An+B1+X0X1+X0A+0.5X0B0-X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-X0X1B1-X0AB1
+
+Total unique inequalities: 71
+Time taken: 10.111143900081515
+
+-------- ORDERING 142 --------
+
+Selected ineqaulities: 29
+
+Non-trivial: 1
+X0+X1-0.5A-0.5An+0.5B1+0.5X0B0-0.5X0B1+0.5AAn+0.5X0X1A-0.5X0X1B0-0.5X0X1B1+0.5X1AB1-X0X1AB1
+
+Total unique inequalities: 72
+Time taken: 9.646340899984352
+
+-------- ORDERING 143 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 72
+Time taken: 12.657335399999283
+
+-------- ORDERING 144 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 72
+Time taken: 8.869172099977732
+
+-------- ORDERING 145 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 72
+Time taken: 5.225058999960311
+
+-------- ORDERING 146 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 72
+Time taken: 6.376283000106923
+
+-------- ORDERING 147 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 73
+Time taken: 6.794420100050047
+
+-------- ORDERING 148 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 73
+Time taken: 5.138557199970819
+
+-------- ORDERING 149 --------
+
+Selected ineqaulities: 12
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 73
+Time taken: 7.001647799974307
+
+-------- ORDERING 150 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 73
+Time taken: 6.044052799930796
+
+-------- ORDERING 151 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0A+X0B0-X0B1+AAn-X0X1B0-X0AB1
+
+Total unique inequalities: 74
+Time taken: 5.7386753000319
+
+-------- ORDERING 152 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 74
+Time taken: 6.464814700069837
+
+-------- ORDERING 153 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 74
+Time taken: 5.142079500015825
+
+-------- ORDERING 154 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 74
+Time taken: 5.593653400079347
+
+-------- ORDERING 155 --------
+
+Selected ineqaulities: 12
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 74
+Time taken: 5.037395399995148
+
+-------- ORDERING 156 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 74
+Time taken: 5.176538100000471
+
+-------- ORDERING 157 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 74
+Time taken: 4.863153699901886
+
+-------- ORDERING 158 --------
+
+Selected ineqaulities: 39
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0A+X0B0-X0B1+AAn-X0X1B0-X0AB1+AAnB1-X0AAnB1
+
+Total unique inequalities: 75
+Time taken: 6.3868076000362635
+
+-------- ORDERING 159 --------
+
+Selected ineqaulities: 35
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+X0A-X0B1+0.5AAn-X0AB1+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 76
+Time taken: 7.0239042999455705
+
+-------- ORDERING 160 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 76
+Time taken: 8.232170800096355
+
+-------- ORDERING 161 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 76
+Time taken: 6.5109973000362515
+
+-------- ORDERING 162 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 76
+Time taken: 5.221082500065677
+
+-------- ORDERING 163 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 76
+Time taken: 6.3827236000215635
+
+-------- ORDERING 164 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+0.5X0B0+0.5AAn+AnB1+0.5X0X1An-0.5X0X1B0-X0AnB1-0.5X0X1AnB1
+
+Total unique inequalities: 77
+Time taken: 7.837984799989499
+
+-------- ORDERING 165 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 2
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0+X0AAn-X0AAnB1
+-A+X0A+AAn-X0AAn
+
+Total unique inequalities: 79
+Time taken: 6.045087700011209
+
+-------- ORDERING 166 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 79
+Time taken: 5.172495299950242
+
+-------- ORDERING 167 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 79
+Time taken: 5.110666200052947
+
+-------- ORDERING 168 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+-0.3333333333333333A-0.3333333333333333An+0.3333333333333333X0X1+0.3333333333333333X0An+0.3333333333333333X0B0+0.3333333333333333AAn+0.6666666666666666AnB1-0.3333333333333333X0X1B0-X0AnB1
+
+Total unique inequalities: 80
+Time taken: 5.458228199975565
+
+-------- ORDERING 169 --------
+
+Selected ineqaulities: 12
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 80
+Time taken: 4.439520500018261
+
+-------- ORDERING 170 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 80
+Time taken: 4.741061500040814
+
+-------- ORDERING 171 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+X0+X1-A-An+X0A+X0B0+X1B1+AAn+AnB1-X0X1B0-X0X1B1-X0AB1-X0AnB1
+
+Total unique inequalities: 81
+Time taken: 5.189914199989289
+
+-------- ORDERING 172 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-A-An+X0X1+X0A+X0B0+AAn+AnB1-X0X1B0-X0AB1-X0AnB1
+
+Total unique inequalities: 82
+Time taken: 5.728760899975896
+
+-------- ORDERING 173 --------
+
+Selected ineqaulities: 35
+
+Non-trivial: 1
+-A-An+X0X1+X0A+X1B1+AAn+AnB1-X0X1B1-X0AB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 83
+Time taken: 6.16416130005382
+
+-------- ORDERING 174 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 83
+Time taken: 5.171841199975461
+
+-------- ORDERING 175 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 83
+Time taken: 4.91942619998008
+
+-------- ORDERING 176 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+0.5X0X1+0.5X0B0-X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 84
+Time taken: 5.284985700040124
+
+-------- ORDERING 177 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 84
+Time taken: 5.005854899995029
+
+-------- ORDERING 178 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5X0B0-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 85
+Time taken: 5.382054299931042
+
+-------- ORDERING 179 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 85
+Time taken: 5.117304800078273
+
+-------- ORDERING 180 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 85
+Time taken: 5.384326300001703
+
+-------- ORDERING 181 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 85
+Time taken: 4.763629699940793
+
+-------- ORDERING 182 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 85
+Time taken: 4.643925700103864
+
+-------- ORDERING 183 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 85
+Time taken: 5.090368299977854
+
+-------- ORDERING 184 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 85
+Time taken: 5.117703099967912
+
+-------- ORDERING 185 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 85
+Time taken: 4.970122199971229
+
+-------- ORDERING 186 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0A+X0B0-X0B1+AAn-X0X1B0-X0AB1
+
+Total unique inequalities: 85
+Time taken: 4.948885800084099
+
+-------- ORDERING 187 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 85
+Time taken: 4.970620900043286
+
+-------- ORDERING 188 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 85
+Time taken: 5.1827485000249
+
+-------- ORDERING 189 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+0.5X0-0.5X1-0.5A-0.5An+X0X1+0.5X0B0-X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 86
+Time taken: 5.251745100016706
+
+-------- ORDERING 190 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 86
+Time taken: 4.795716000022367
+
+-------- ORDERING 191 --------
+
+Selected ineqaulities: 33
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0X1A+X0X1An+X0AnB0-X0X1AB1-X0X1AnB0-X0X1AnB1
+
+Total unique inequalities: 87
+Time taken: 6.20939939992968
+
+-------- ORDERING 192 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0-X0X1B1
+
+Total unique inequalities: 87
+Time taken: 4.5332844000076875
+
+-------- ORDERING 193 --------
+
+Selected ineqaulities: 36
+
+Non-trivial: 1
+-0.5A-0.5An+B1+X0X1+0.5X0A+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1-0.5X0AB1
+
+Total unique inequalities: 88
+Time taken: 7.228002000018023
+
+-------- ORDERING 194 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn+X0X1A-X0X1B0-X0X1AB1
+
+Total unique inequalities: 89
+Time taken: 5.748870400013402
+
+-------- ORDERING 195 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+0.5AAn+AnB1+0.5X0AnB0-X0AnB1-0.5X0X1AnB0
+
+Total unique inequalities: 90
+Time taken: 5.970198499970138
+
+-------- ORDERING 196 --------
+
+Selected ineqaulities: 33
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn+X0X1A-X0X1B0-X0X1AB1
+
+Total unique inequalities: 90
+Time taken: 7.046340800006874
+
+-------- ORDERING 197 --------
+
+Selected ineqaulities: 29
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn+X0X1A-X0X1B0-X0X1AB1
+
+Total unique inequalities: 90
+Time taken: 7.0992696998873726
+
+-------- ORDERING 198 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+-0.6666666666666666X1-0.3333333333333333A-0.3333333333333333An+X0X1+0.3333333333333333X0B0-0.6666666666666666X0B1+0.3333333333333333AAn+0.3333333333333333AnB1-0.3333333333333333X0X1B0-0.3333333333333333X0AnB1
+
+Total unique inequalities: 91
+Time taken: 5.607523999991827
+
+-------- ORDERING 199 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 91
+Time taken: 5.450730599928647
+
+-------- ORDERING 200 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 91
+Time taken: 4.823349399957806
+
+-------- ORDERING 201 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5X0B0-0.5X0B1+0.5AAn+0.5AnB1-0.5X0X1B0-0.5X0AnB1
+
+Total unique inequalities: 92
+Time taken: 6.667583100032061
+
+-------- ORDERING 202 --------
+
+Selected ineqaulities: 37
+
+Non-trivial: 1
+X0+0.3333333333333335X1-0.3333333333333333A-0.3333333333333333An+0.3333333333333333X0X1+0.3333333333333333X0B0-0.6666666666666666X0B1+0.6666666666666666X1B1+0.3333333333333333AAn-0.3333333333333333X0X1B0-X0X1B1
+
+Total unique inequalities: 93
+Time taken: 6.7405025999760255
+
+-------- ORDERING 203 --------
+
+Selected ineqaulities: 29
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+0.5X0A+0.5X0B0+0.5AAn+AnB1-0.5X0X1B0-0.5X0AB1-X0AnB1
+
+Total unique inequalities: 94
+Time taken: 5.727893500006758
+
+-------- ORDERING 204 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 94
+Time taken: 5.529047799995169
+
+-------- ORDERING 205 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 94
+Time taken: 5.969432299956679
+
+-------- ORDERING 206 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 94
+Time taken: 5.126921300077811
+
+-------- ORDERING 207 --------
+
+Selected ineqaulities: 35
+
+Non-trivial: 1
+0.3333333333333333X0+0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+B1-X0B1+0.3333333333333333AAn+0.3333333333333333X0X1A+0.3333333333333333X0AnB0-0.3333333333333333X0X1AB1-0.3333333333333333X0X1AnB0
+
+Total unique inequalities: 95
+Time taken: 6.857868500053883
+
+-------- ORDERING 208 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+0.75X0+0.5X1-0.25A-0.25An+0.25B1+0.25X0B0-0.5X0B1+0.75X1B1+0.25AAn-0.25X0X1B0-X0X1B1
+
+Total unique inequalities: 96
+Time taken: 5.305271000019275
+
+-------- ORDERING 209 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn+X0X1A-X0X1B0-X0X1AB1
+
+Total unique inequalities: 96
+Time taken: 5.759767899988219
+
+-------- ORDERING 210 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 96
+Time taken: 4.888771600089967
+
+-------- ORDERING 211 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 96
+Time taken: 6.43188339995686
+
+-------- ORDERING 212 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 96
+Time taken: 4.765908900066279
+
+-------- ORDERING 213 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 96
+Time taken: 5.55349419999402
+
+-------- ORDERING 214 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1-0.5X0B1+0.5X1B1+0.5AAn+0.5X0X1An-X0X1B1+0.5X0AnB0-0.5X0X1AnB0-0.5X0X1AnB1
+
+Total unique inequalities: 97
+Time taken: 6.629661999992095
+
+-------- ORDERING 215 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+X0+X1-A-0.5An+0.5B1+0.5X0B0-0.5X0B1+AAn-0.5X0X1B0-0.5X0X1B1+0.5X0AB1-0.5X0AAnB1
+
+Total unique inequalities: 98
+Time taken: 6.7771743000485
+
+-------- ORDERING 216 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 98
+Time taken: 4.94045009999536
+
+-------- ORDERING 217 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 98
+Time taken: 6.096559299970977
+
+-------- ORDERING 218 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 98
+Time taken: 5.416998500004411
+
+-------- ORDERING 219 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5X0B0-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 98
+Time taken: 5.346756000071764
+
+-------- ORDERING 220 --------
+
+Selected ineqaulities: 35
+
+Non-trivial: 1
+0.3333333333333333X0+0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+0.3333333333333333X0X1+0.3333333333333333X0B0+0.3333333333333333AAn+AnB1-0.3333333333333333X0X1B0-0.3333333333333333X0X1B1-X0AnB1
+
+Total unique inequalities: 99
+Time taken: 5.812186699942686
+
+-------- ORDERING 221 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 99
+Time taken: 5.328277099994011
+
+-------- ORDERING 222 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 99
+Time taken: 5.448885099962354
+
+-------- ORDERING 223 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 99
+Time taken: 8.103758599958383
+
+-------- ORDERING 224 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 100
+Time taken: 6.242988700047135
+
+-------- ORDERING 225 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 100
+Time taken: 6.306193599943072
+
+-------- ORDERING 226 --------
+
+Selected ineqaulities: 34
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn+0.5AnB1-0.5X0X1B0-0.5X0X1B1-0.5X0AnB1
+
+Total unique inequalities: 101
+Time taken: 6.86988920008298
+
+-------- ORDERING 227 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 101
+Time taken: 5.659504299983382
+
+-------- ORDERING 228 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 101
+Time taken: 5.873360599973239
+
+-------- ORDERING 229 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 102
+Time taken: 5.748491299920715
+
+-------- ORDERING 230 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0-A-An+X0X1-X0B1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 103
+Time taken: 5.206885099993087
+
+-------- ORDERING 231 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 103
+Time taken: 5.193453400046565
+
+-------- ORDERING 232 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 103
+Time taken: 5.0851912999060005
+
+-------- ORDERING 233 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+-0.3333333333333333A-0.3333333333333333An+0.6666666666666666X0X1+0.3333333333333333X0B0+0.3333333333333333AAn+AnB1-0.3333333333333333X0X1B0-0.3333333333333333X0X1B1-X0AnB1
+
+Total unique inequalities: 104
+Time taken: 5.539899799972773
+
+-------- ORDERING 234 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 104
+Time taken: 5.5380626999540254
+
+-------- ORDERING 235 --------
+
+Selected ineqaulities: 37
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1-X0B1+0.5AAn+0.5X0X1A+0.5X0X1An+0.5X0AnB0-0.5X0X1AB1-0.5X0X1AnB0-0.5X0X1AnB1
+
+Total unique inequalities: 105
+Time taken: 6.317834299989045
+
+-------- ORDERING 236 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 105
+Time taken: 5.369702200056054
+
+-------- ORDERING 237 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0X1An+X0AnB0-X0AnB1+X0X1AAn-X0X1AnB0-X0X1AnB1-X0X1AAnB1
+
+Total unique inequalities: 106
+Time taken: 5.938154500094242
+
+-------- ORDERING 238 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+X0X1-0.5X0B1+0.5AAn+0.5AnB1-0.5X0X1B1+0.5X0AnB0-0.5X0AnB1-0.5X0X1AnB0
+
+Total unique inequalities: 107
+Time taken: 5.772803099942394
+
+-------- ORDERING 239 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0-X0X1B1
+
+Total unique inequalities: 107
+Time taken: 5.216384800034575
+
+-------- ORDERING 240 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 107
+Time taken: 5.1970430999062955
+
+-------- ORDERING 241 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 107
+Time taken: 5.054390899953432
+
+-------- ORDERING 242 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 107
+Time taken: 5.130627800012007
+
+-------- ORDERING 243 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 107
+Time taken: 5.111475100042298
+
+-------- ORDERING 244 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An-0.5X0B1+0.5AAn+0.5AnB1+0.5X0AnB0-0.5X0AnB1-0.5X0X1AnB0
+
+Total unique inequalities: 108
+Time taken: 5.457501400029287
+
+-------- ORDERING 245 --------
+
+Selected ineqaulities: 36
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0A+0.5X0B0-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-X0X1B1-0.5X0AB1
+
+Total unique inequalities: 108
+Time taken: 6.0463487999513745
+
+-------- ORDERING 246 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+0.5X0X1-X0B1+0.5AAn+0.5X0X1An+0.5X0AnB0-0.5X0X1AnB0-0.5X0X1AnB1
+
+Total unique inequalities: 109
+Time taken: 6.230060299974866
+
+-------- ORDERING 247 --------
+
+Selected ineqaulities: 43
+
+Non-trivial: 1
+-0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+0.6666666666666666B1+X0X1+0.3333333333333333X0B0-X0B1+0.3333333333333333AAn-0.3333333333333333X0X1B0-0.3333333333333333X0X1B1
+
+Total unique inequalities: 110
+Time taken: 7.490067100035958
+
+-------- ORDERING 248 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 110
+Time taken: 5.372838800074533
+
+-------- ORDERING 249 --------
+
+Selected ineqaulities: 31
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+0.5X0B0+0.5AAn+AnB1-0.5X0X1B0-X0AnB1
+
+Total unique inequalities: 110
+Time taken: 5.350132199935615
+
+-------- ORDERING 250 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 110
+Time taken: 5.520387300057337
+
+-------- ORDERING 251 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 110
+Time taken: 6.28916719998233
+
+-------- ORDERING 252 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 110
+Time taken: 6.279205000028014
+
+-------- ORDERING 253 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 110
+Time taken: 5.5028695000801235
+
+-------- ORDERING 254 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+-0.5A-0.5An+0.5X0X1+0.5X0B0+0.5X1B1+0.5AAn+AnB1-0.5X0X1B0-0.5X0X1B1+0.5X0AAn-X0AnB1-0.5X0AAnB1
+
+Total unique inequalities: 111
+Time taken: 7.155097199953161
+
+-------- ORDERING 255 --------
+
+Selected ineqaulities: 12
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 111
+Time taken: 5.364971500006504
+
+-------- ORDERING 256 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 111
+Time taken: 4.964838500018232
+
+-------- ORDERING 257 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 111
+Time taken: 5.035717000020668
+
+-------- ORDERING 258 --------
+
+Selected ineqaulities: 29
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0An+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1-0.5X0AnB1
+
+Total unique inequalities: 112
+Time taken: 5.655656200018711
+
+-------- ORDERING 259 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 112
+Time taken: 5.113986099953763
+
+-------- ORDERING 260 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1-0.5X0B1+0.5AAn-0.5X0X1B1+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 112
+Time taken: 5.831046600011177
+
+-------- ORDERING 261 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-0.5X1-0.5A-0.5An+X0X1-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B1+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 113
+Time taken: 5.772615000023507
+
+-------- ORDERING 262 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 113
+Time taken: 5.678000799962319
+
+-------- ORDERING 263 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 113
+Time taken: 5.976903300033882
+
+-------- ORDERING 264 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 113
+Time taken: 4.775475700036623
+
+-------- ORDERING 265 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 113
+Time taken: 5.336354299914092
+
+-------- ORDERING 266 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 113
+Time taken: 5.260444200015627
+
+-------- ORDERING 267 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 113
+Time taken: 5.334880699985661
+
+-------- ORDERING 268 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn+X0X1An-X0X1B0-X0X1AnB1
+
+Total unique inequalities: 114
+Time taken: 5.595623399945907
+
+-------- ORDERING 269 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 114
+Time taken: 5.075339499977417
+
+-------- ORDERING 270 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+0.5X0X1+0.5X0B0-0.5X0B1+X1B1+0.5AAn-0.5X0X1B0-X0X1B1
+
+Total unique inequalities: 115
+Time taken: 5.266903599957004
+
+-------- ORDERING 271 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+-A-An+X0X1+X1B1+AAn+AnB1-X0X1B1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 116
+Time taken: 5.474817399983294
+
+-------- ORDERING 272 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 116
+Time taken: 5.626996899954975
+
+-------- ORDERING 273 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-A-An+X0X1+X1B1+AAn+AnB1-X0X1B1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 116
+Time taken: 5.945092899957672
+
+-------- ORDERING 274 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 116
+Time taken: 7.797877700068057
+
+-------- ORDERING 275 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+-0.25A-0.25An+0.25X0X1+0.25X0An+0.25X0B0+0.25AAn+0.75AnB1-0.25X0X1B0-X0AnB1
+
+Total unique inequalities: 117
+Time taken: 6.110345199937001
+
+-------- ORDERING 276 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 117
+Time taken: 5.065533700049855
+
+-------- ORDERING 277 --------
+
+Selected ineqaulities: 35
+
+Non-trivial: 1
+0.2X0+0.2X1-0.2A-0.2An+B1+0.2X0X1+0.2X0A+0.2X0B0-X0B1+0.2AAn-0.2X0X1B0-0.2X0X1B1-0.2X0AB1
+
+Total unique inequalities: 118
+Time taken: 5.762443199986592
+
+-------- ORDERING 278 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 118
+Time taken: 5.802598400041461
+
+-------- ORDERING 279 --------
+
+Selected ineqaulities: 37
+
+Non-trivial: 1
+-0.6666666666666666A-0.3333333333333333An+B1+0.3333333333333333X0X1+0.3333333333333333X0B0-X0B1+0.6666666666666666AAn+0.3333333333333333X0X1A-0.3333333333333333X0X1B0+0.3333333333333333X1AB1-0.3333333333333333X0X1AB1-0.3333333333333333X1AAnB1
+
+Total unique inequalities: 119
+Time taken: 6.843401100020856
+
+-------- ORDERING 280 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0X1A+X0AnB0-X0X1AB1-X0X1AnB0
+
+Total unique inequalities: 119
+Time taken: 5.672875800053589
+
+-------- ORDERING 281 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0X1A+X0AnB0-X0X1AB1-X0X1AnB0
+
+Total unique inequalities: 119
+Time taken: 5.654019300010987
+
+-------- ORDERING 282 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+X0-A-An+X0X1+X0B0-X0B1+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 120
+Time taken: 5.214958199998364
+
+-------- ORDERING 283 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 120
+Time taken: 5.9569899999769405
+
+-------- ORDERING 284 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 120
+Time taken: 5.554961699992418
+
+-------- ORDERING 285 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 120
+Time taken: 6.570718500064686
+
+-------- ORDERING 286 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 120
+Time taken: 6.84806860005483
+
+-------- ORDERING 287 --------
+
+Selected ineqaulities: 45
+
+Non-trivial: 1
+-0.3333333333333333A-0.3333333333333333An+0.6666666666666666X0X1+0.6666666666666666X0A+0.3333333333333333X0B0+0.3333333333333333AAn+0.3333333333333333AB1+0.3333333333333333AnB1-0.3333333333333333X0X1B0-0.3333333333333333X0X1B1-X0AB1-0.3333333333333333X0AnB1
+
+Total unique inequalities: 121
+Time taken: 7.674328100052662
+
+-------- ORDERING 288 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 121
+Time taken: 10.118626399897039
+
+-------- ORDERING 289 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 121
+Time taken: 5.075837599928491
+
+-------- ORDERING 290 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 121
+Time taken: 5.371123599936254
+
+-------- ORDERING 291 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn+X0X1A-X0X1B0-X0X1AB1
+
+Total unique inequalities: 121
+Time taken: 5.388653800007887
+
+-------- ORDERING 292 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0-X0X1B1
+
+Total unique inequalities: 121
+Time taken: 6.218542900052853
+
+-------- ORDERING 293 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 121
+Time taken: 8.251636800006963
+
+-------- ORDERING 294 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+-0.5A-0.5An+0.5X0X1+0.5X0B0+0.5AAn+AnB1-0.5X0X1B0-X0AnB1
+
+Total unique inequalities: 121
+Time taken: 7.344099199981429
+
+-------- ORDERING 295 --------
+
+Selected ineqaulities: 35
+
+Non-trivial: 1
+0.14285714285714285X0-0.14285714285714285A-0.14285714285714285An+0.14285714285714285X0X1-0.14285714285714285X0B1+0.14285714285714285AAn+AnB1+0.14285714285714285X0AnB0-X0AnB1-0.14285714285714285X0X1AnB0
+
+Total unique inequalities: 122
+Time taken: 5.807560199988075
+
+-------- ORDERING 296 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 122
+Time taken: 4.7580489999381825
+
+-------- ORDERING 297 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 122
+Time taken: 5.276859499979764
+
+-------- ORDERING 298 --------
+
+Selected ineqaulities: 31
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+X1B1+AAn+AnB1-X0X1B0-X0X1B1-X0AnB1
+
+Total unique inequalities: 123
+Time taken: 7.044535200111568
+
+-------- ORDERING 299 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 123
+Time taken: 5.049184900010005
+
+-------- ORDERING 300 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 123
+Time taken: 5.834424900007434
+
+-------- ORDERING 301 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 123
+Time taken: 6.051800700020976
+
+-------- ORDERING 302 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 123
+Time taken: 6.2937928000465035
+
+-------- ORDERING 303 --------
+
+Selected ineqaulities: 35
+
+Non-trivial: 2
+-A+AAn+X0X1A+X0AB1-X0X1AB1-X0AAnB1
+-0.5A-0.5An+0.5X0X1+0.5X0B0+0.5AAn+0.5AB1+0.5AnB1+X0X1A-0.5X0X1B0-0.5X0AB1-0.5X0AnB1-X0X1AB1
+
+Total unique inequalities: 125
+Time taken: 6.964283999986947
+
+-------- ORDERING 304 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 125
+Time taken: 5.694862899952568
+
+-------- ORDERING 305 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 125
+Time taken: 5.980891500017606
+
+-------- ORDERING 306 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 125
+Time taken: 6.751367199933156
+
+-------- ORDERING 307 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 125
+Time taken: 5.566025299951434
+
+-------- ORDERING 308 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 125
+Time taken: 7.198939700028859
+
+-------- ORDERING 309 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+X0X1+0.5X0B0+0.5AAn+0.5AnB1-0.5X0X1B0-X0X1B1-0.5X0AnB1
+
+Total unique inequalities: 126
+Time taken: 5.554075799998827
+
+-------- ORDERING 310 --------
+
+Selected ineqaulities: 43
+
+Non-trivial: 1
+0.3333333333333333X0+0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+B1+0.3333333333333333X0X1+0.3333333333333333X0B0-X0B1+0.3333333333333333AAn-0.3333333333333333X0X1B0-0.3333333333333333X0X1B1
+
+Total unique inequalities: 127
+Time taken: 6.4722936999751255
+
+-------- ORDERING 311 --------
+
+Selected ineqaulities: 41
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1+0.5X0A+0.5X0B0-X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-0.5X0X1B1-0.5X0AB1
+
+Total unique inequalities: 128
+Time taken: 6.025736100040376
+
+-------- ORDERING 312 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 128
+Time taken: 8.786887699970976
+
+-------- ORDERING 313 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 128
+Time taken: 10.125547300092876
+
+-------- ORDERING 314 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 128
+Time taken: 6.361902100034058
+
+-------- ORDERING 315 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0X1-X0B1+AAn-X0X1B1+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 129
+Time taken: 6.9317907999502495
+
+-------- ORDERING 316 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 129
+Time taken: 5.264674999983981
+
+-------- ORDERING 317 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 129
+Time taken: 4.919427799992263
+
+-------- ORDERING 318 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 129
+Time taken: 4.9015934999333695
+
+-------- ORDERING 319 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 129
+Time taken: 5.546950199990533
+
+-------- ORDERING 320 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B1+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 129
+Time taken: 5.112865799921565
+
+-------- ORDERING 321 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 129
+Time taken: 4.634515200043097
+
+-------- ORDERING 322 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 129
+Time taken: 4.951989299966954
+
+-------- ORDERING 323 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-0.5X1-0.5A-0.5An+X0X1-0.5X0B1+0.5X1B1+0.5AAn+0.5X0X1An-0.5X0X1B1+0.5X0AnB0-0.5X0X1AnB0-0.5X0X1AnB1
+
+Total unique inequalities: 130
+Time taken: 5.122180499951355
+
+-------- ORDERING 324 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 130
+Time taken: 4.826297099934891
+
+-------- ORDERING 325 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+-0.5A-0.5An+B1+X0X1+0.5X0B0-X0B1-0.5X1B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 131
+Time taken: 5.028135099913925
+
+-------- ORDERING 326 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 131
+Time taken: 5.120993799995631
+
+-------- ORDERING 327 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 131
+Time taken: 4.859600799973123
+
+-------- ORDERING 328 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1-0.5X0B1+0.5AAn-0.5X0X1B1+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 131
+Time taken: 5.052074700011872
+
+-------- ORDERING 329 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 131
+Time taken: 5.775654299999587
+
+-------- ORDERING 330 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 131
+Time taken: 4.760200000018813
+
+-------- ORDERING 331 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1-X0B1+0.5AAn+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 131
+Time taken: 5.182260099914856
+
+-------- ORDERING 332 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 131
+Time taken: 5.158935800078325
+
+-------- ORDERING 333 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 131
+Time taken: 4.498187500052154
+
+-------- ORDERING 334 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 131
+Time taken: 4.853988799965009
+
+-------- ORDERING 335 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-0.5A-0.5An+X0X1+0.5X0B0+0.5AAn+0.5AnB1-0.5X0X1B0-0.5X0X1B1-0.5X0AnB1
+
+Total unique inequalities: 131
+Time taken: 4.7038766000187024
+
+-------- ORDERING 336 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 131
+Time taken: 4.928974700043909
+
+-------- ORDERING 337 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 131
+Time taken: 5.5463286999147385
+
+-------- ORDERING 338 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 131
+Time taken: 6.192678299965337
+
+-------- ORDERING 339 --------
+
+Selected ineqaulities: 33
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 131
+Time taken: 9.312183100031689
+
+-------- ORDERING 340 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1+X0X1An-X0X1B0-X0AnB1-X0X1AnB1
+
+Total unique inequalities: 132
+Time taken: 5.96156660001725
+
+-------- ORDERING 341 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 132
+Time taken: 6.056554600014351
+
+-------- ORDERING 342 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-0.5A-0.5An+B1+X0X1+0.5X0B0-X0B1-0.5X1B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 132
+Time taken: 5.532878900063224
+
+-------- ORDERING 343 --------
+
+Selected ineqaulities: 37
+
+Non-trivial: 1
+-0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+0.6666666666666666B1+0.6666666666666666X0X1+0.3333333333333333X0B0-X0B1+0.6666666666666666X1B1+0.3333333333333333AAn-0.3333333333333333X0X1B0-0.6666666666666666X0X1B1
+
+Total unique inequalities: 133
+Time taken: 6.2225005000364035
+
+-------- ORDERING 344 --------
+
+Selected ineqaulities: 36
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn+0.5X0X1A-0.5X0X1B0-0.5X0X1AB1
+
+Total unique inequalities: 134
+Time taken: 6.027098400052637
+
+-------- ORDERING 345 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 134
+Time taken: 5.643719899933785
+
+-------- ORDERING 346 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 134
+Time taken: 5.360823999973945
+
+-------- ORDERING 347 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 134
+Time taken: 5.462022200110368
+
+-------- ORDERING 348 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 134
+Time taken: 5.526392399915494
+
+-------- ORDERING 349 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 134
+Time taken: 5.145936900051311
+
+-------- ORDERING 350 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 134
+Time taken: 5.885204100050032
+
+-------- ORDERING 351 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 134
+Time taken: 5.561842800001614
+
+-------- ORDERING 352 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+0.3333333333333333X0+0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+B1-X0B1+0.3333333333333333AAn+0.3333333333333333X0AnB0-0.3333333333333333X0X1AnB0
+
+Total unique inequalities: 135
+Time taken: 5.6664595999754965
+
+-------- ORDERING 353 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+0.5AAn+AnB1+0.5X0X1An+0.5X0AnB0-X0AnB1-0.5X0X1AnB0-0.5X0X1AnB1
+
+Total unique inequalities: 136
+Time taken: 5.634205300011672
+
+-------- ORDERING 354 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1+X0X1A-X0X1B0-X0AnB1-X0X1AB1
+
+Total unique inequalities: 137
+Time taken: 5.606879699975252
+
+-------- ORDERING 355 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0X1An+X0AnB0-X0X1AnB0-X0X1AnB1
+
+Total unique inequalities: 137
+Time taken: 5.749205500003882
+
+-------- ORDERING 356 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-0.3333333333333333A-0.3333333333333333An+0.3333333333333333X0X1+0.3333333333333333X0B0+0.3333333333333333AAn+AnB1-0.3333333333333333X0X1B0-X0AnB1
+
+Total unique inequalities: 138
+Time taken: 6.106909899972379
+
+-------- ORDERING 357 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 138
+Time taken: 5.620414600009099
+
+-------- ORDERING 358 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 138
+Time taken: 5.149120099958964
+
+-------- ORDERING 359 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 138
+Time taken: 5.816344099934213
+
+-------- ORDERING 360 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 138
+Time taken: 6.246202699956484
+
+-------- ORDERING 361 --------
+
+Selected ineqaulities: 37
+
+Non-trivial: 1
+X0+X1-0.5A-0.5An+0.5B1+0.5X0A-0.5X0B1+0.5X1B1+0.5AAn-X0X1B1-0.5X0AB1+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 139
+Time taken: 6.635819300077856
+
+-------- ORDERING 362 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 139
+Time taken: 5.028949699946679
+
+-------- ORDERING 363 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 139
+Time taken: 5.305245200055651
+
+-------- ORDERING 364 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 139
+Time taken: 4.716954300063662
+
+-------- ORDERING 365 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 139
+Time taken: 7.262823299970478
+
+-------- ORDERING 366 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1+X0X1A-X0X1B0-X0AnB1-X0X1AB1
+
+Total unique inequalities: 140
+Time taken: 6.606468499987386
+
+-------- ORDERING 367 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0+AAnB1-X0AAnB1
+
+Total unique inequalities: 141
+Time taken: 8.037563599995337
+
+-------- ORDERING 368 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 141
+Time taken: 7.238284699968062
+
+-------- ORDERING 369 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 141
+Time taken: 5.196550099994056
+
+-------- ORDERING 370 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+X0+0.6666666666666666X1-0.3333333333333333A-0.3333333333333333An+0.3333333333333333B1-0.3333333333333333X0X1+0.3333333333333333X0B0-0.6666666666666666X0B1+0.3333333333333333AAn-0.3333333333333333X0X1B0
+
+Total unique inequalities: 142
+Time taken: 5.232233599992469
+
+-------- ORDERING 371 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn+X0X1A-X0X1B0-X0X1AB1
+
+Total unique inequalities: 142
+Time taken: 5.060510499984957
+
+-------- ORDERING 372 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0A+X0B0-X0B1+AAn-X0X1B0-X0AB1
+
+Total unique inequalities: 143
+Time taken: 5.554802100057714
+
+-------- ORDERING 373 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 143
+Time taken: 4.8581142000621185
+
+-------- ORDERING 374 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0-X0X1B1
+
+Total unique inequalities: 143
+Time taken: 4.994135699933395
+
+-------- ORDERING 375 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 143
+Time taken: 4.837805600021966
+
+-------- ORDERING 376 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 143
+Time taken: 5.173239900032058
+
+-------- ORDERING 377 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 143
+Time taken: 4.975589300040156
+
+-------- ORDERING 378 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 143
+Time taken: 5.0236283000558615
+
+-------- ORDERING 379 --------
+
+Selected ineqaulities: 33
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5X0B0-0.5X0B1+0.5X1B1+0.5AAn+0.5X0X1A-0.5X0X1B0-0.5X0X1B1+0.5X0X1AAn-0.5X0X1AB1-0.5X0X1AAnB1
+
+Total unique inequalities: 144
+Time taken: 5.565081399981864
+
+-------- ORDERING 380 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5X0B0-0.5X0B1+0.5AAn+0.5AnB1-0.5X0X1B0-0.5X0AnB1
+
+Total unique inequalities: 144
+Time taken: 5.41843219997827
+
+-------- ORDERING 381 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+X0+0.6666666666666666X1-0.3333333333333333A-0.3333333333333333An+0.3333333333333333B1-0.3333333333333333X0X1+0.3333333333333333X0B0-0.6666666666666666X0B1+0.3333333333333333AAn-0.3333333333333333X0X1B0
+
+Total unique inequalities: 144
+Time taken: 7.2083452999359
+
+-------- ORDERING 382 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 144
+Time taken: 8.98371100006625
+
+-------- ORDERING 383 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5X0B0-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 144
+Time taken: 5.2208157000131905
+
+-------- ORDERING 384 --------
+
+Selected ineqaulities: 29
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5X0X1+0.5X0B0-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-X0X1B1+0.5X1AB1-0.5X0X1AB1
+
+Total unique inequalities: 145
+Time taken: 5.6197401999961585
+
+-------- ORDERING 385 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0X1An+X0AnB0-X0X1AnB0-X0X1AnB1
+
+Total unique inequalities: 146
+Time taken: 5.186644100002013
+
+-------- ORDERING 386 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+X0+0.3333333333333333X1-0.6666666666666666A-0.3333333333333333An+0.3333333333333333X0A-0.6666666666666666X0B1+0.6666666666666666AAn+0.3333333333333333AnB1-0.3333333333333333X0AAn+0.3333333333333333X0AnB0-0.3333333333333333X0AnB1-0.3333333333333333X0X1AnB0
+
+Total unique inequalities: 147
+Time taken: 5.538695199997164
+
+-------- ORDERING 387 --------
+
+Selected ineqaulities: 38
+
+Non-trivial: 1
+X0+X1-A-0.5An+0.5B1-0.5X0B1+AAn+0.5AB1-0.5X0X1B1+0.5X0AnB0-0.5AAnB1-0.5X0X1AnB0
+
+Total unique inequalities: 148
+Time taken: 9.74246179999318
+
+-------- ORDERING 388 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 148
+Time taken: 6.52330170001369
+
+-------- ORDERING 389 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 148
+Time taken: 5.645332399988547
+
+-------- ORDERING 390 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+-0.5X1-0.5A-0.5An+X0X1-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B1+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 148
+Time taken: 6.001279100077227
+
+-------- ORDERING 391 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 148
+Time taken: 5.202610100037418
+
+-------- ORDERING 392 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 148
+Time taken: 5.776293200091459
+
+-------- ORDERING 393 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 148
+Time taken: 5.021420400007628
+
+-------- ORDERING 394 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-0.5A-0.5An+X0X1+0.5X0B0+0.5AAn+0.5AnB1-0.5X0X1B0-0.5X0X1B1-0.5X0AnB1
+
+Total unique inequalities: 148
+Time taken: 5.084272500011139
+
+-------- ORDERING 395 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 148
+Time taken: 4.789546300075017
+
+-------- ORDERING 396 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 148
+Time taken: 5.016664299997501
+
+-------- ORDERING 397 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 148
+Time taken: 5.100082000019029
+
+-------- ORDERING 398 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 148
+Time taken: 5.769064799998887
+
+-------- ORDERING 399 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0X1-X0B1+AAn-X0X1B1+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 148
+Time taken: 4.9013638000469655
+
+-------- ORDERING 400 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn+AnB1-X0X1B0-X0AnB1+X1AnB1-X0X1AnB1
+
+Total unique inequalities: 149
+Time taken: 5.478959299973212
+
+-------- ORDERING 401 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0A+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0-0.5X0AB1
+
+Total unique inequalities: 150
+Time taken: 5.373628900037147
+
+-------- ORDERING 402 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 150
+Time taken: 5.013008299982175
+
+-------- ORDERING 403 --------
+
+Selected ineqaulities: 43
+
+Non-trivial: 1
+-0.3333333333333333A-0.3333333333333333An+0.6666666666666666X0X1+0.6666666666666666X0A+0.3333333333333333X0B0+0.3333333333333333AAn+AnB1-0.3333333333333333X0X1B0-0.3333333333333333X0X1B1-0.6666666666666666X0AB1-X0AnB1
+
+Total unique inequalities: 151
+Time taken: 5.999640199937858
+
+-------- ORDERING 404 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1-X0B1+0.5AAn+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 151
+Time taken: 5.6094124999362975
+
+-------- ORDERING 405 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 151
+Time taken: 7.9532369000371546
+
+-------- ORDERING 406 --------
+
+Selected ineqaulities: 47
+
+Non-trivial: 1
+-0.14285714285714285A-0.14285714285714285An+B1+0.2857142857142857X0X1+0.14285714285714285X0B0-X0B1+0.14285714285714285AAn+0.14285714285714285X0X1A-0.14285714285714285X0X1B0-0.14285714285714285X0X1B1-0.14285714285714285X0X1AB1
+
+Total unique inequalities: 152
+Time taken: 7.301524700014852
+
+-------- ORDERING 407 --------
+
+Selected ineqaulities: 31
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn+0.5X0X1A-0.5X0X1B0-0.5X0X1B1-0.5X0X1AB1
+
+Total unique inequalities: 152
+Time taken: 6.369752899976447
+
+-------- ORDERING 408 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 152
+Time taken: 5.4657881000312045
+
+-------- ORDERING 409 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 152
+Time taken: 5.717037599999458
+
+-------- ORDERING 410 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 152
+Time taken: 5.284682200057432
+
+-------- ORDERING 411 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 152
+Time taken: 4.887618700042367
+
+-------- ORDERING 412 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 152
+Time taken: 4.960566199966706
+
+-------- ORDERING 413 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 152
+Time taken: 5.005149099975824
+
+-------- ORDERING 414 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 152
+Time taken: 4.6148984000319615
+
+-------- ORDERING 415 --------
+
+Selected ineqaulities: 37
+
+Non-trivial: 1
+0.3333333333333333X0-0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+X0X1+0.3333333333333333X0B0-0.6666666666666666X0B1+0.6666666666666666X1B1+0.3333333333333333AAn-0.3333333333333333X0X1B0-X0X1B1
+
+Total unique inequalities: 153
+Time taken: 5.646345900022425
+
+-------- ORDERING 416 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 153
+Time taken: 5.070132800028659
+
+-------- ORDERING 417 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 153
+Time taken: 5.364513300010003
+
+-------- ORDERING 418 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+0.5X0+0.5X1-A-0.5An+0.5B1+0.5X0A-0.5X0B1+AAn+0.5X0X1A-0.5X0AAn+0.5X0AnB0-0.5X0X1AB1-0.5X0X1AnB0
+
+Total unique inequalities: 154
+Time taken: 6.4302188999718055
+
+-------- ORDERING 419 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 154
+Time taken: 5.206356399925426
+
+-------- ORDERING 420 --------
+
+Selected ineqaulities: 44
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5B1+0.5X0B0-X0B1+0.5X1B1+0.5AAn+0.5X0X1A-0.5X0X1B0-0.5X0X1B1-0.5X0X1AB1
+
+Total unique inequalities: 155
+Time taken: 6.029597699991427
+
+-------- ORDERING 421 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+X0+X1-0.5A-0.5An+0.5B1+0.5X0B0-0.5X0B1+0.5AAn+0.5X0X1A-0.5X0X1B0-0.5X0X1B1-0.5X0X1AB1
+
+Total unique inequalities: 156
+Time taken: 5.42616769997403
+
+-------- ORDERING 422 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 156
+Time taken: 4.912349899997935
+
+-------- ORDERING 423 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 156
+Time taken: 4.942835099995136
+
+-------- ORDERING 424 --------
+
+Selected ineqaulities: 12
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 156
+Time taken: 5.222858599969186
+
+-------- ORDERING 425 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 156
+Time taken: 5.309723200043663
+
+-------- ORDERING 426 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0-X0X1B1
+
+Total unique inequalities: 156
+Time taken: 5.644560199929401
+
+-------- ORDERING 427 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 156
+Time taken: 4.722355999983847
+
+-------- ORDERING 428 --------
+
+Selected ineqaulities: 33
+
+Non-trivial: 1
+0.3333333333333333X0+0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+0.3333333333333333AAn+AnB1+0.3333333333333333X0X1An+0.3333333333333333X0AnB0-X0AnB1-0.3333333333333333X0X1AnB0-0.3333333333333333X0X1AnB1
+
+Total unique inequalities: 157
+Time taken: 5.90478169999551
+
+-------- ORDERING 429 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+-0.5A-0.5An+X0X1+0.5X0B0+0.5AAn+0.5AnB1-0.5X0X1B0-0.5X0X1B1-0.5X0AnB1
+
+Total unique inequalities: 157
+Time taken: 5.384183199959807
+
+-------- ORDERING 430 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 157
+Time taken: 5.001957100001164
+
+-------- ORDERING 431 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+0.5X0B0+0.5AAn+AnB1-0.5X0X1B0-X0AnB1
+
+Total unique inequalities: 157
+Time taken: 4.925540200085379
+
+-------- ORDERING 432 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 157
+Time taken: 4.966355900047347
+
+-------- ORDERING 433 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1+X0X1A-X0X1B0-X0AnB1-X0X1AB1
+
+Total unique inequalities: 157
+Time taken: 5.958145899930969
+
+-------- ORDERING 434 --------
+
+Selected ineqaulities: 41
+
+Non-trivial: 1
+0.3333333333333333X0-0.33333333333333326A-0.33333333333333326An+0.6666666666666665B1+0.33333333333333326X0X1+0.3333333333333332X0B0-X0B1+0.33333333333333326X1B1+0.33333333333333326AAn-0.33333333333333326X0X1B0-0.33333333333333326X0X1B1
+
+Total unique inequalities: 158
+Time taken: 11.433445199974813
+
+-------- ORDERING 435 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 158
+Time taken: 6.201462900033221
+
+-------- ORDERING 436 --------
+
+Selected ineqaulities: 29
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5X0B0-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 158
+Time taken: 9.990579099976458
+
+-------- ORDERING 437 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0A+X0B0-X0B1+AAn-X0X1B0-X0AB1
+
+Total unique inequalities: 158
+Time taken: 7.634799999999814
+
+-------- ORDERING 438 --------
+
+Selected ineqaulities: 31
+
+Non-trivial: 1
+-0.5A-0.5An+0.5X0X1+0.5AAn+AnB1+0.5X0X1A+0.5X0AnB0-X0AnB1-0.5X0X1AB1-0.5X0X1AnB0
+
+Total unique inequalities: 159
+Time taken: 7.046578599954955
+
+-------- ORDERING 439 --------
+
+Selected ineqaulities: 12
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 159
+Time taken: 5.179576799971983
+
+-------- ORDERING 440 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 159
+Time taken: 4.9475850000744686
+
+-------- ORDERING 441 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+-0.3333333333333333A-0.3333333333333333An+B1+0.3333333333333333X0X1+0.3333333333333333X0B0-X0B1+0.3333333333333333AAn-0.3333333333333333X0X1B0
+
+Total unique inequalities: 160
+Time taken: 5.791751299984753
+
+-------- ORDERING 442 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+X0+X1-0.5A-0.5An+0.5B1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 160
+Time taken: 5.6055102000245824
+
+-------- ORDERING 443 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 160
+Time taken: 5.367524900007993
+
+-------- ORDERING 444 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+0.5B1+0.5X0B0-0.5X0B1+0.5AAn+X0X1A-0.5X0X1B0-X0X1AB1
+
+Total unique inequalities: 161
+Time taken: 6.480662400019355
+
+-------- ORDERING 445 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 161
+Time taken: 5.396136199939065
+
+-------- ORDERING 446 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0A-X0B1+AAn-X0AB1+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 162
+Time taken: 5.538717999937944
+
+-------- ORDERING 447 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn+AB1-X0X1B0-X0AB1
+
+Total unique inequalities: 163
+Time taken: 5.425303700030781
+
+-------- ORDERING 448 --------
+
+Selected ineqaulities: 38
+
+Non-trivial: 1
+X0+0.5X1-0.25A-0.25An+0.25B1+0.25X0B0-0.75X0B1+0.25X1B1+0.25AAn-0.25X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 164
+Time taken: 6.054564099991694
+
+-------- ORDERING 449 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0+AAnB1-X0AAnB1
+
+Total unique inequalities: 164
+Time taken: 5.938562200055458
+
+-------- ORDERING 450 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+X0+X1-0.5A-0.5An+0.5B1+0.5X0B0-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-X0X1B1
+
+Total unique inequalities: 165
+Time taken: 5.850465600029565
+
+-------- ORDERING 451 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 165
+Time taken: 6.503873900044709
+
+-------- ORDERING 452 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 165
+Time taken: 5.539250500034541
+
+-------- ORDERING 453 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 165
+Time taken: 7.816341100027785
+
+-------- ORDERING 454 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5X0B0-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 165
+Time taken: 7.051056100055575
+
+-------- ORDERING 455 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 165
+Time taken: 6.434514899970964
+
+-------- ORDERING 456 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-0.5A-0.5An+X0X1+0.5AAn+0.5AnB1-0.5X0X1B1+0.5X0AnB0-0.5X0AnB1-0.5X0X1AnB0
+
+Total unique inequalities: 165
+Time taken: 6.5718306000344455
+
+-------- ORDERING 457 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 165
+Time taken: 5.410353800049052
+
+-------- ORDERING 458 --------
+
+Selected ineqaulities: 29
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 165
+Time taken: 5.677673500031233
+
+-------- ORDERING 459 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0-X0X1B1
+
+Total unique inequalities: 165
+Time taken: 5.327171699958853
+
+-------- ORDERING 460 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+0.5AAn+AnB1+0.5X0AnB0-X0AnB1-0.5X0X1AnB0
+
+Total unique inequalities: 165
+Time taken: 5.3203398999758065
+
+-------- ORDERING 461 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 165
+Time taken: 6.373589599970728
+
+-------- ORDERING 462 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An-0.5X0B1+0.5AAn+0.5AnB1+0.5X0AnB0-0.5X0AnB1-0.5X0X1AnB0
+
+Total unique inequalities: 165
+Time taken: 5.394328200025484
+
+-------- ORDERING 463 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 165
+Time taken: 5.165330499992706
+
+-------- ORDERING 464 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1-X0B1+0.5AAn+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 165
+Time taken: 5.123057699995115
+
+-------- ORDERING 465 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 165
+Time taken: 4.837241199915297
+
+-------- ORDERING 466 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 165
+Time taken: 5.126660299953073
+
+-------- ORDERING 467 --------
+
+Selected ineqaulities: 12
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 165
+Time taken: 5.01098819996696
+
+-------- ORDERING 468 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 165
+Time taken: 6.688670400064439
+
+-------- ORDERING 469 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 165
+Time taken: 5.396720299962908
+
+-------- ORDERING 470 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An-0.5X0B1+0.5AAn+0.5AnB1+0.5X0AnB0-0.5X0AnB1-0.5X0X1AnB0
+
+Total unique inequalities: 165
+Time taken: 5.060750299948268
+
+-------- ORDERING 471 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 165
+Time taken: 5.341512399958447
+
+-------- ORDERING 472 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 165
+Time taken: 5.094622700009495
+
+-------- ORDERING 473 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 165
+Time taken: 7.069254200090654
+
+-------- ORDERING 474 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 165
+Time taken: 5.38666399999056
+
+-------- ORDERING 475 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 165
+Time taken: 5.114279099972919
+
+-------- ORDERING 476 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 165
+Time taken: 4.800015200045891
+
+-------- ORDERING 477 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1+X0X1An-X0X1B0-X0AnB1-X0X1AnB1
+
+Total unique inequalities: 165
+Time taken: 5.068076999974437
+
+-------- ORDERING 478 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+-0.5X1-0.5A-0.5An+X0X1+0.5X0B0-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 166
+Time taken: 5.489772900007665
+
+-------- ORDERING 479 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0X1A+X0AnB0-X0AnB1-X0X1AB1-X0X1AnB0
+
+Total unique inequalities: 167
+Time taken: 4.989496599999256
+
+-------- ORDERING 480 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+-0.5A-0.5An+B1+X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 168
+Time taken: 5.207811499945819
+
+-------- ORDERING 481 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 168
+Time taken: 5.627306399983354
+
+-------- ORDERING 482 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 168
+Time taken: 5.341722100041807
+
+-------- ORDERING 483 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+0.3333333333333333X0+0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+B1+0.3333333333333333X0B0-X0B1+0.3333333333333333AAn-0.3333333333333333X0X1B0
+
+Total unique inequalities: 169
+Time taken: 5.475905300001614
+
+-------- ORDERING 484 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+-0.5A-0.5An+X0X1+0.5X0B0+0.5AAn+0.5AnB1-0.5X0X1B0-0.5X0X1B1-0.5X0AnB1
+
+Total unique inequalities: 169
+Time taken: 5.246748800040223
+
+-------- ORDERING 485 --------
+
+Selected ineqaulities: 43
+
+Non-trivial: 2
+-A+AAn+X0X1A-X0X1AAn
+0.25X0+0.25X1-0.25A-0.25An+B1+0.25X0X1+0.25X0B0-X0B1+0.25AAn-0.25X0X1B0-0.25X0X1B1+0.25X0X1AAn-0.25X0X1AAnB1
+
+Total unique inequalities: 171
+Time taken: 9.597255699918605
+
+-------- ORDERING 486 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AnB1+X0X1A-X0X1B0-X0AnB1-X0X1AB1
+
+Total unique inequalities: 171
+Time taken: 6.905392099986784
+
+-------- ORDERING 487 --------
+
+Selected ineqaulities: 31
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0X1+X0A+X0B0-X0B1+AAn-X0X1B0-X0X1B1-X0AB1
+
+Total unique inequalities: 172
+Time taken: 6.0340218000346795
+
+-------- ORDERING 488 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn+X0X1A-X0X1B0-X0X1AB1
+
+Total unique inequalities: 172
+Time taken: 5.99116520001553
+
+-------- ORDERING 489 --------
+
+Selected ineqaulities: 37
+
+Non-trivial: 1
+X0+0.25X1-0.25A-0.25An+0.25B1+0.25X0B0-X0B1+0.5X1B1+0.25AAn-0.25X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 173
+Time taken: 6.445736200083047
+
+-------- ORDERING 490 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 173
+Time taken: 4.950224400032312
+
+-------- ORDERING 491 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 173
+Time taken: 4.973162500071339
+
+-------- ORDERING 492 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 173
+Time taken: 4.635844400036149
+
+-------- ORDERING 493 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 173
+Time taken: 4.895870100008324
+
+-------- ORDERING 494 --------
+
+Selected ineqaulities: 20
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+X1B1+AAn-X0X1B0-X0X1B1
+
+Total unique inequalities: 174
+Time taken: 5.084023699979298
+
+-------- ORDERING 495 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+X0+X1-0.5A-0.5An+0.5B1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 174
+Time taken: 5.6413356999401
+
+-------- ORDERING 496 --------
+
+Selected ineqaulities: 29
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 174
+Time taken: 5.60347410000395
+
+-------- ORDERING 497 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 174
+Time taken: 5.548476199968718
+
+-------- ORDERING 498 --------
+
+Selected ineqaulities: 37
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5B1-X0B1+X1B1+0.5AAn-X0X1B1+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 175
+Time taken: 5.645246500032954
+
+-------- ORDERING 499 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 175
+Time taken: 5.6817429000511765
+
+-------- ORDERING 500 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 175
+Time taken: 6.642341900034808
+
+-------- ORDERING 501 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0A+X0B0-X0B1+AAn+X0X1A-X0X1B0-X0AB1-X0X1AB1
+
+Total unique inequalities: 176
+Time taken: 5.4705125000327826
+
+-------- ORDERING 502 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+X1B1+AAn-X0X1B0-X0X1B1
+
+Total unique inequalities: 176
+Time taken: 5.343103199964389
+
+-------- ORDERING 503 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 176
+Time taken: 6.060048499959521
+
+-------- ORDERING 504 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 176
+Time taken: 5.57394769997336
+
+-------- ORDERING 505 --------
+
+Selected ineqaulities: 32
+
+Non-trivial: 1
+0.3333333333333333X0+0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+B1+0.3333333333333333X0X1+0.3333333333333333X0B0-X0B1+0.3333333333333333AAn+0.3333333333333333X0X1A-0.3333333333333333X0X1B0-0.3333333333333333X0X1B1-0.3333333333333333X0X1AB1
+
+Total unique inequalities: 177
+Time taken: 5.704002500046045
+
+-------- ORDERING 506 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 177
+Time taken: 5.3536362000741065
+
+-------- ORDERING 507 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+0.3333333333333333X0+0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+0.3333333333333333X0B0+0.3333333333333333AAn+AnB1-0.3333333333333333X0X1B0-X0AnB1
+
+Total unique inequalities: 177
+Time taken: 5.570631899987347
+
+-------- ORDERING 508 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+-A-An+X0X1+X0B0+AAn+AB1+AnB1-X0X1B0-X0AB1-X0AnB1
+
+Total unique inequalities: 178
+Time taken: 5.245797400013544
+
+-------- ORDERING 509 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 178
+Time taken: 5.206066199927591
+
+-------- ORDERING 510 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+0.5X0B0+0.5AAn+AnB1-0.5X0X1B0-X0AnB1
+
+Total unique inequalities: 178
+Time taken: 5.219019900076091
+
+-------- ORDERING 511 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 178
+Time taken: 5.456889200024307
+
+-------- ORDERING 512 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 178
+Time taken: 5.083722800016403
+
+-------- ORDERING 513 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 178
+Time taken: 4.913546000025235
+
+-------- ORDERING 514 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+X0X1-0.5X0B1+0.5AAn+0.5AnB1-0.5X0X1B1+0.5X0AnB0-0.5X0AnB1-0.5X0X1AnB0
+
+Total unique inequalities: 178
+Time taken: 5.4545867999549955
+
+-------- ORDERING 515 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+-0.5A-0.5An+X0X1+0.5X0B0+0.5AAn+0.5AnB1-0.5X0X1B0-0.5X0X1B1-0.5X0AnB1
+
+Total unique inequalities: 178
+Time taken: 5.1842351000523195
+
+-------- ORDERING 516 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 178
+Time taken: 5.348847500048578
+
+-------- ORDERING 517 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 178
+Time taken: 5.0944316000677645
+
+-------- ORDERING 518 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+-A-An+B1+X0X1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 178
+Time taken: 5.143559299991466
+
+-------- ORDERING 519 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 178
+Time taken: 5.472924700006843
+
+-------- ORDERING 520 --------
+
+Selected ineqaulities: 37
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+0.5X0X1+X0A-0.5X0B1+0.5AAn-X0AB1+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 179
+Time taken: 7.3061705000000075
+
+-------- ORDERING 521 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+-0.5A-0.5An+X0X1+0.5X0B0+0.5AAn+0.5AnB1-0.5X0X1B0-0.5X0X1B1-0.5X0AnB1
+
+Total unique inequalities: 179
+Time taken: 5.253469799994491
+
+-------- ORDERING 522 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+X0X1-X0B1+0.5AAn-0.5X0X1B1+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 180
+Time taken: 7.143644799944013
+
+-------- ORDERING 523 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0+X0X1AAn-X0X1AAnB1
+
+Total unique inequalities: 181
+Time taken: 6.082598200067878
+
+-------- ORDERING 524 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 181
+Time taken: 5.473710200050846
+
+-------- ORDERING 525 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0An+X0B0-X0B1+AAn-X0X1B0-X0AnB1
+
+Total unique inequalities: 181
+Time taken: 6.111761100008152
+
+-------- ORDERING 526 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 181
+Time taken: 5.180594299919903
+
+-------- ORDERING 527 --------
+
+Selected ineqaulities: 33
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+0.5X0X1+0.5X0B0-0.5X0B1+0.5AAn+X0X1A-0.5X0X1B0-X0X1AB1
+
+Total unique inequalities: 182
+Time taken: 6.143335199914873
+
+-------- ORDERING 528 --------
+
+Selected ineqaulities: 31
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+X0X1+0.5X0B0-0.5X0B1+0.5AAn+0.5AnB1-0.5X0X1B0-0.5X0X1B1-0.5X0AnB1
+
+Total unique inequalities: 183
+Time taken: 7.998197200009599
+
+-------- ORDERING 529 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 183
+Time taken: 5.299057799973525
+
+-------- ORDERING 530 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0X1B1-X0AnB1
+
+Total unique inequalities: 184
+Time taken: 5.5118621999863535
+
+-------- ORDERING 531 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 184
+Time taken: 5.494293799973093
+
+-------- ORDERING 532 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 184
+Time taken: 5.345856699976139
+
+-------- ORDERING 533 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1-X0B1+0.5AAn+0.5X0AnB0-0.5X0X1AnB0
+
+Total unique inequalities: 184
+Time taken: 5.563961499952711
+
+-------- ORDERING 534 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5X0B0-0.5X0B1+0.5AAn+0.5AnB1-0.5X0X1B0-0.5X0AnB1
+
+Total unique inequalities: 184
+Time taken: 5.965250300010666
+
+-------- ORDERING 535 --------
+
+Selected ineqaulities: 24
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0An+X0B0-X0B1+AAn-X0X1B0-X0AnB1
+
+Total unique inequalities: 185
+Time taken: 6.556101500056684
+
+-------- ORDERING 536 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 185
+Time taken: 6.394117899937555
+
+-------- ORDERING 537 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 185
+Time taken: 6.566003800020553
+
+-------- ORDERING 538 --------
+
+Selected ineqaulities: 29
+
+Non-trivial: 1
+-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 185
+Time taken: 5.311172000016086
+
+-------- ORDERING 539 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 185
+Time taken: 5.044890700024553
+
+-------- ORDERING 540 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 185
+Time taken: 6.097829999984242
+
+-------- ORDERING 541 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 185
+Time taken: 4.916041500051506
+
+-------- ORDERING 542 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 185
+Time taken: 5.816260699997656
+
+-------- ORDERING 543 --------
+
+Selected ineqaulities: 38
+
+Non-trivial: 1
+X0+0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+0.3333333333333333X0B0-0.6666666666666666X0B1+0.6666666666666666X1B1+0.3333333333333333AAn-0.3333333333333333X0X1B0-0.6666666666666666X0X1B1
+
+Total unique inequalities: 186
+Time taken: 6.115711000049487
+
+-------- ORDERING 544 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 186
+Time taken: 5.408384899958037
+
+-------- ORDERING 545 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 186
+Time taken: 5.269973500049673
+
+-------- ORDERING 546 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+X0X1+AAn+AnB1-X0X1B1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 187
+Time taken: 5.814370499923825
+
+-------- ORDERING 547 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 187
+Time taken: 5.746171500068158
+
+-------- ORDERING 548 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0-X0X1B1
+
+Total unique inequalities: 187
+Time taken: 5.288678999990225
+
+-------- ORDERING 549 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 187
+Time taken: 5.266893699998036
+
+-------- ORDERING 550 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+0.5X0-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 187
+Time taken: 5.597141900099814
+
+-------- ORDERING 551 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 187
+Time taken: 4.938178499927744
+
+-------- ORDERING 552 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 187
+Time taken: 4.89535160001833
+
+-------- ORDERING 553 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+-0.5X1-0.5A-0.5An+X0X1+0.5X0B0-0.5X0B1+0.5X1B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 187
+Time taken: 5.108353500021622
+
+-------- ORDERING 554 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 187
+Time taken: 5.126474599936046
+
+-------- ORDERING 555 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 187
+Time taken: 4.850931799970567
+
+-------- ORDERING 556 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+X0+0.75X1-0.25A-0.25An+0.5B1+0.25X0B0-0.75X0B1+0.25AAn-0.25X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 188
+Time taken: 5.861038999981247
+
+-------- ORDERING 557 --------
+
+Selected ineqaulities: 50
+
+Non-trivial: 1
+-0.3333333333333333A-0.3333333333333333An+0.3333333333333333B1+0.3333333333333333X0X1+0.3333333333333333X0B0-0.3333333333333333X0B1+0.3333333333333333X1B1+0.3333333333333333AAn+0.3333333333333333AnB1+X0X1A-0.3333333333333333X0X1B0-0.3333333333333333X0X1B1-0.3333333333333333X0AnB1-X0X1AB1
+
+Total unique inequalities: 189
+Time taken: 7.185096500092186
+
+-------- ORDERING 558 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 189
+Time taken: 5.324677600059658
+
+-------- ORDERING 559 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0An+X0B0-X0B1+X1B1+AAn-X0X1B0-X0X1B1-X0AnB1
+
+Total unique inequalities: 190
+Time taken: 5.713132999953814
+
+-------- ORDERING 560 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 190
+Time taken: 5.780937200062908
+
+-------- ORDERING 561 --------
+
+Selected ineqaulities: 18
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn+X0X1An-X0X1B0-X0X1AnB1
+
+Total unique inequalities: 190
+Time taken: 5.269785999902524
+
+-------- ORDERING 562 --------
+
+Selected ineqaulities: 33
+
+Non-trivial: 1
+0.8X0-0.2A-0.2An+0.2B1+0.2X0X1+0.2X0B0-X0B1+0.2AAn-0.2X0X1B0
+
+Total unique inequalities: 191
+Time taken: 5.727340999990702
+
+-------- ORDERING 563 --------
+
+Selected ineqaulities: 37
+
+Non-trivial: 1
+-0.3333333333333333A-0.3333333333333333An+B1+0.6666666666666666X0X1+0.6666666666666666X0An+0.3333333333333333X0B0-X0B1+0.3333333333333333AAn-0.3333333333333333X0X1B0-0.3333333333333333X0X1B1-0.6666666666666666X0AnB1
+
+Total unique inequalities: 192
+Time taken: 5.863704200019129
+
+-------- ORDERING 564 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+X1B1+AAn-X0X1B0-X0X1B1
+
+Total unique inequalities: 192
+Time taken: 5.506212600041181
+
+-------- ORDERING 565 --------
+
+Selected ineqaulities: 35
+
+Non-trivial: 1
+-0.3333333333333333A-0.3333333333333333An+0.3333333333333333B1+X0X1+0.3333333333333333X0B0-0.3333333333333333X0B1+0.3333333333333333AAn+0.3333333333333333X0X1A-0.3333333333333333X0X1B0-0.6666666666666666X0X1B1-0.3333333333333333X0X1AB1
+
+Total unique inequalities: 193
+Time taken: 6.371391299995594
+
+-------- ORDERING 566 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 193
+Time taken: 7.861228200024925
+
+-------- ORDERING 567 --------
+
+Selected ineqaulities: 28
+
+Non-trivial: 1
+X0+0.6666666666666666X1-0.3333333333333333A-0.3333333333333333An+0.3333333333333333B1-0.3333333333333333X0X1+0.3333333333333333X0B0-0.6666666666666666X0B1+0.3333333333333333AAn-0.3333333333333333X0X1B0
+
+Total unique inequalities: 193
+Time taken: 6.765273900004104
+
+-------- ORDERING 568 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 193
+Time taken: 6.067853800021112
+
+-------- ORDERING 569 --------
+
+Selected ineqaulities: 37
+
+Non-trivial: 1
+0.5X0-0.5X1-0.5A-0.5An+X0X1+0.5X0B0-X0B1+X1B1+0.5AAn-0.5X0X1B0-X0X1B1
+
+Total unique inequalities: 194
+Time taken: 7.640183700015768
+
+-------- ORDERING 570 --------
+
+Selected ineqaulities: 29
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn+AnB1-X0X1B0-X0AnB1+AAnB1-X0AAnB1
+
+Total unique inequalities: 195
+Time taken: 6.01404509996064
+
+-------- ORDERING 571 --------
+
+Selected ineqaulities: 22
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 195
+Time taken: 5.073250600020401
+
+-------- ORDERING 572 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 195
+Time taken: 4.936540000024252
+
+-------- ORDERING 573 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 195
+Time taken: 5.313841999974102
+
+-------- ORDERING 574 --------
+
+Selected ineqaulities: 30
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0X1+X0B0-X0B1+AAn+X0X1A-X0X1B0-X0X1B1-X0X1AB1
+
+Total unique inequalities: 195
+Time taken: 5.572833599988371
+
+-------- ORDERING 575 --------
+
+Selected ineqaulities: 25
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 195
+Time taken: 5.265593999996781
+
+-------- ORDERING 576 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+0.5X0+0.5X1-0.5A-0.5An+B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 195
+Time taken: 5.767089099972509
+
+-------- ORDERING 577 --------
+
+Selected ineqaulities: 23
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 195
+Time taken: 5.783852700027637
+
+-------- ORDERING 578 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 195
+Time taken: 5.689198400010355
+
+-------- ORDERING 579 --------
+
+Selected ineqaulities: 29
+
+Non-trivial: 1
+0.3333333333333333X0+0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+0.3333333333333333AAn+AnB1+0.3333333333333333X0AnB0-X0AnB1-0.3333333333333333X0X1AnB0
+
+Total unique inequalities: 196
+Time taken: 5.821588600054383
+
+-------- ORDERING 580 --------
+
+Selected ineqaulities: 13
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 196
+Time taken: 4.622346900054254
+
+-------- ORDERING 581 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 196
+Time taken: 6.081639899988659
+
+-------- ORDERING 582 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 196
+Time taken: 5.3267544999253005
+
+-------- ORDERING 583 --------
+
+Selected ineqaulities: 26
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 196
+Time taken: 6.665375199983828
+
+-------- ORDERING 584 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 196
+Time taken: 5.147696100058965
+
+-------- ORDERING 585 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 196
+Time taken: 5.138700700015761
+
+-------- ORDERING 586 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+X0+X1-A-An+X0X1+X0B0+AAn+AnB1-X0X1B0-X0X1B1-X0AnB1
+
+Total unique inequalities: 196
+Time taken: 5.288423900026828
+
+-------- ORDERING 587 --------
+
+Selected ineqaulities: 12
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 196
+Time taken: 4.921516100061126
+
+-------- ORDERING 588 --------
+
+Selected ineqaulities: 43
+
+Non-trivial: 1
+0.2X0-0.2A-0.2An+0.8B1+X0X1+0.2X0B0-X0B1+0.2AAn-0.2X0X1B0-0.8X0X1B1
+
+Total unique inequalities: 197
+Time taken: 7.17587610008195
+
+-------- ORDERING 589 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+X0+X1-A-An+X0B0+AAn+AnB1-X0X1B0-X0AnB1
+
+Total unique inequalities: 197
+Time taken: 5.288885399932042
+
+-------- ORDERING 590 --------
+
+Selected ineqaulities: 44
+
+Non-trivial: 1
+0.3333333333333333X0+0.3333333333333333X1-0.3333333333333333A-0.3333333333333333An+0.6666666666666666B1+0.6666666666666666X0X1+0.3333333333333333X0A+0.3333333333333333X0B0-0.6666666666666666X0B1+0.3333333333333333AAn+AnB1-0.3333333333333333X0X1B0-0.6666666666666666X0X1B1-0.3333333333333333X0AB1-X0AnB1
+
+Total unique inequalities: 198
+Time taken: 6.733934800024144
+
+-------- ORDERING 591 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 198
+Time taken: 5.089522200054489
+
+-------- ORDERING 592 --------
+
+Selected ineqaulities: 27
+
+Non-trivial: 1
+X0+0.5X1-0.5A-0.5An+0.5B1+0.5X0B0-X0B1+0.5AAn-0.5X0X1B0
+
+Total unique inequalities: 198
+Time taken: 5.290133800008334
+
+-------- ORDERING 593 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 198
+Time taken: 5.421451100031845
+
+-------- ORDERING 594 --------
+
+Selected ineqaulities: 17
+
+Non-trivial: 1
+-A-An+B1+X0X1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 198
+Time taken: 5.033177000004798
+
+-------- ORDERING 595 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+X0+X1-A-An+B1-X0B1+AAn+X0AnB0-X0X1AnB0
+
+Total unique inequalities: 198
+Time taken: 4.756306300056167
+
+-------- ORDERING 596 --------
+
+Selected ineqaulities: 14
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 198
+Time taken: 4.913514500018209
+
+-------- ORDERING 597 --------
+
+Selected ineqaulities: 19
+
+Non-trivial: 1
+-0.5A-0.5An+X0X1+0.5X0B0+0.5AAn+0.5AnB1-0.5X0X1B0-0.5X0X1B1-0.5X0AnB1
+
+Total unique inequalities: 198
+Time taken: 5.315484199905768
+
+-------- ORDERING 598 --------
+
+Selected ineqaulities: 16
+
+Non-trivial: 1
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Total unique inequalities: 198
+Time taken: 5.267388400039636
+
+-------- ORDERING 599 --------
+
+Selected ineqaulities: 21
+
+Non-trivial: 1
+-0.5A-0.5An+0.5B1+X0X1+0.5X0B0-0.5X0B1+0.5AAn-0.5X0X1B0-0.5X0X1B1
+
+Total unique inequalities: 198
+Time taken: 5.347780300071463
+
+-------- ORDERING 600 --------
+
+Selected ineqaulities: 15
+
+Non-trivial: 1
+X0+X1-A-An+B1+X0B0-X0B1+AAn-X0X1B0
+
+Total unique inequalities: 198
+Time taken: 5.239871799945831
