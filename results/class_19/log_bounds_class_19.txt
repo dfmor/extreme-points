@@ -1,0 +1,18 @@
+
+-------- CALCULATE BOUNDS 1 --------
+
+Bound: 0.9999847412109375
+
+Used inequalities: 8
+Best inequalities: []
+
+Optimal vertex: 0
+
+-------- CALCULATE BOUNDS 2 --------
+
+Bound: 0.9999847412109375
+
+Used inequalities: 8
+Best inequalities: []
+
+Optimal vertex: 0

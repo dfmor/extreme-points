@@ -1,0 +1,24 @@
+
+-------- CALCULATE BOUNDS 1 --------
+
+Bound: 0.9295501708984375
+
+Used inequalities: 9
+Best inequalities: [0, 4, 5]
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+0.5X0+0.5X1-A-0.5An+0.5X0A+AAn+0.5AnB1-0.5X0AAn+0.5X0AnB0-0.5X0AnB1-0.5X0X1AnB0
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Optimal vertex: 60
+
+-------- CALCULATE BOUNDS 2 --------
+
+Bound: 0.9295501708984375
+
+Used inequalities: 10
+Best inequalities: [0, 4, 6]
+-A-An+X0X1+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+0.5X0+0.5X1-A-0.5An+0.5X0A+AAn+0.5AnB1-0.5X0AAn+0.5X0AnB0-0.5X0AnB1-0.5X0X1AnB0
+X0+X1-A-An+AAn+AnB1+X0AnB0-X0AnB1-X0X1AnB0
+
+Optimal vertex: 60
