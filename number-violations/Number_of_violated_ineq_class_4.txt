@@ -1,0 +1,80 @@
+
+----- CLASS 0 -----
+Total inequalities: 603
+Violated inequalities: 0 --- 0%
+
+----- CLASS 1 -----
+Total inequalities: 603
+Violated inequalities: 287 --- 48%
+
+----- CLASS 2 -----
+Total inequalities: 603
+Violated inequalities: 287 --- 48%
+
+----- CLASS 3 -----
+Total inequalities: 603
+Violated inequalities: 287 --- 48%
+
+----- CLASS 4 -----
+Total inequalities: 603
+Violated inequalities: 287 --- 48%
+
+----- CLASS 5 -----
+Total inequalities: 603
+Violated inequalities: 287 --- 48%
+
+----- CLASS 6 -----
+Total inequalities: 603
+Violated inequalities: 268 --- 44%
+
+----- CLASS 7 -----
+Total inequalities: 603
+Violated inequalities: 268 --- 44%
+
+----- CLASS 8 -----
+Total inequalities: 603
+Violated inequalities: 71 --- 12%
+
+----- CLASS 9 -----
+Total inequalities: 603
+Violated inequalities: 287 --- 48%
+
+----- CLASS 10 -----
+Total inequalities: 603
+Violated inequalities: 287 --- 48%
+
+----- CLASS 11 -----
+Total inequalities: 603
+Violated inequalities: 267 --- 44%
+
+----- CLASS 12 -----
+Total inequalities: 603
+Violated inequalities: 287 --- 48%
+
+----- CLASS 13 -----
+Total inequalities: 603
+Violated inequalities: 71 --- 12%
+
+----- CLASS 14 -----
+Total inequalities: 603
+Violated inequalities: 148 --- 25%
+
+----- CLASS 15 -----
+Total inequalities: 603
+Violated inequalities: 148 --- 25%
+
+----- CLASS 16 -----
+Total inequalities: 603
+Violated inequalities: 266 --- 44%
+
+----- CLASS 17 -----
+Total inequalities: 603
+Violated inequalities: 71 --- 12%
+
+----- CLASS 18 -----
+Total inequalities: 603
+Violated inequalities: 266 --- 44%
+
+----- CLASS 19 -----
+Total inequalities: 603
+Violated inequalities: 0 --- 0%
